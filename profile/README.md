@@ -30,6 +30,16 @@ Cada serviço pode ser contratado separado ou combinado em um acompanhamento con
 
 Os projetos da LOM seguem o mesmo padrão de qualidade que levamos aos clientes: casos de teste em BDD escritos em português, verificação de acessibilidade (WCAG 2.2 AA) e de segurança (OWASP) a cada mudança, e só versão testada vai para produção.
 
+### Skills e sistemas abertos
+
+Algumas das ferramentas que usamos no dia a dia com clientes ficam abertas aqui, para você instalar, testar e adaptar ao seu contexto. Cada repositório traz instruções de instalação, testes automatizados, histórico de versões e licença.
+
+| Repositório | Tipo | O que resolve | Licença |
+|:--|:--|:--|:--|
+| [**consultor-de-viagens**](https://github.com/lomconsultoria/consultor-de-viagens) | Skill para agentes de IA (Claude) | Cota voos, hotéis e cruzeiros em várias fontes, compara datas, mostra o preço por pessoa no PIX e no cartão e entrega uma planilha com fórmulas para simular cenários. | CC BY-NC 4.0 |
+
+Novas skills e sistemas entram nesta lista conforme forem publicados. Para uso comercial ou adaptação para a sua empresa, fale com a gente em [contato@lomconsultoria.com](mailto:contato@lomconsultoria.com).
+
 ### Próximo degrau
 
 Quer entender por onde começar? Fale com a gente e receba um diagnóstico inicial sobre onde vale mais a pena focar primeiro.
