@@ -10,12 +10,12 @@ São mais de 20 anos de experiência prática em TI e qualidade de software, hoj
 
 ### O que fazemos
 
-| | Serviço | Na prática |
-|:--|:--|:--|
-| `S-01` | **Consultoria em TI** | Diagnóstico, roadmap e governança para organizar prioridades e reduzir riscos técnicos. |
-| `S-02` | **Construção de Skills** | Skills, instruções e padrões reutilizáveis para times que usam IA generativa e agentic no dia a dia. |
-| `S-03` | **Agentes de IA** | Desenho, implementação, automações e integrações de agentes aplicados ao seu processo. |
-| `S-04` | **Qualidade de Software** | Estratégia de testes, métricas e automação para o seu time, com IA apoiando as boas práticas de qualidade. |
+| Serviço | Na prática |
+|:--|:--|
+| **Consultoria em TI** | Diagnóstico, roadmap e governança para organizar prioridades e reduzir riscos técnicos. |
+| **Construção de Skills** | Skills, instruções e padrões reutilizáveis para times que usam IA generativa e agentic no dia a dia. |
+| **Agentes de IA** | Desenho, implementação, automações e integrações de agentes aplicados ao seu processo. |
+| **Qualidade de Software** | Estratégia de testes, métricas e automação para o seu time, com IA apoiando as boas práticas de qualidade. |
 
 Cada serviço pode ser contratado separado ou combinado em um acompanhamento contínuo, dependendo de onde a sua operação está hoje. Detalhes em [lomconsultoria.com/servicos](https://lomconsultoria.com/servicos.html).
 
